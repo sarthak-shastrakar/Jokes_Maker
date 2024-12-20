@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Jokes_Maker/static/css/main.10f5203e.css",
+    "main.js": "/Jokes_Maker/static/js/main.b1f821e1.js",
+    "static/media/logo.svg": "/Jokes_Maker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Jokes_Maker/index.html",
+    "main.10f5203e.css.map": "/Jokes_Maker/static/css/main.10f5203e.css.map",
+    "main.b1f821e1.js.map": "/Jokes_Maker/static/js/main.b1f821e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10f5203e.css",
+    "static/js/main.b1f821e1.js"
+  ]
+}
